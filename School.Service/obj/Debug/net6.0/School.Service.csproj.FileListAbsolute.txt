@@ -1,0 +1,45 @@
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Service\bin\Debug\net6.0\School.Service.deps.json
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Service\bin\Debug\net6.0\School.Service.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Service\bin\Debug\net6.0\School.Service.pdb
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Service\bin\Debug\net6.0\School.Core.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Service\bin\Debug\net6.0\School.Core.pdb
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.AssemblyInfo.cs
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.csproj.CopyComplete
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Service\obj\Debug\net6.0\refint\School.Service.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.pdb
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Service\obj\Debug\net6.0\ref\School.Service.dll
+E:\דוטנט מהסמינר\SchoolSys-main\School.Service\bin\Debug\net6.0\School.Service.deps.json
+E:\דוטנט מהסמינר\SchoolSys-main\School.Service\bin\Debug\net6.0\School.Service.dll
+E:\דוטנט מהסמינר\SchoolSys-main\School.Service\bin\Debug\net6.0\School.Service.pdb
+E:\דוטנט מהסמינר\SchoolSys-main\School.Service\bin\Debug\net6.0\School.Core.dll
+E:\דוטנט מהסמינר\SchoolSys-main\School.Service\bin\Debug\net6.0\School.Core.pdb
+E:\דוטנט מהסמינר\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.csproj.AssemblyReference.cache
+E:\דוטנט מהסמינר\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\דוטנט מהסמינר\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.AssemblyInfoInputs.cache
+E:\דוטנט מהסמינר\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.AssemblyInfo.cs
+E:\דוטנט מהסמינר\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.csproj.CoreCompileInputs.cache
+E:\דוטנט מהסמינר\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.csproj.CopyComplete
+E:\דוטנט מהסמינר\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.dll
+E:\דוטנט מהסמינר\SchoolSys-main\School.Service\obj\Debug\net6.0\refint\School.Service.dll
+E:\דוטנט מהסמינר\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.pdb
+E:\דוטנט מהסמינר\SchoolSys-main\School.Service\obj\Debug\net6.0\ref\School.Service.dll
+C:\Users\User\Documents\c#\SchoolSys-main\School.Service\bin\Debug\net6.0\School.Service.deps.json
+C:\Users\User\Documents\c#\SchoolSys-main\School.Service\bin\Debug\net6.0\School.Service.dll
+C:\Users\User\Documents\c#\SchoolSys-main\School.Service\bin\Debug\net6.0\School.Service.pdb
+C:\Users\User\Documents\c#\SchoolSys-main\School.Service\bin\Debug\net6.0\School.Core.dll
+C:\Users\User\Documents\c#\SchoolSys-main\School.Service\bin\Debug\net6.0\School.Core.pdb
+C:\Users\User\Documents\c#\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.csproj.AssemblyReference.cache
+C:\Users\User\Documents\c#\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\c#\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.AssemblyInfoInputs.cache
+C:\Users\User\Documents\c#\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.AssemblyInfo.cs
+C:\Users\User\Documents\c#\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\c#\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.csproj.CopyComplete
+C:\Users\User\Documents\c#\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.dll
+C:\Users\User\Documents\c#\SchoolSys-main\School.Service\obj\Debug\net6.0\refint\School.Service.dll
+C:\Users\User\Documents\c#\SchoolSys-main\School.Service\obj\Debug\net6.0\School.Service.pdb
+C:\Users\User\Documents\c#\SchoolSys-main\School.Service\obj\Debug\net6.0\ref\School.Service.dll

@@ -1,0 +1,36 @@
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Core\bin\Debug\net6.0\School.Core.deps.json
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Core\bin\Debug\net6.0\School.Core.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Core\bin\Debug\net6.0\School.Core.pdb
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.AssemblyInfo.cs
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Core\obj\Debug\net6.0\refint\School.Core.dll
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.pdb
+Y:\Groups\Group_1\רוטשילד  שולמית\SchoolSys-main\School.Core\obj\Debug\net6.0\ref\School.Core.dll
+E:\דוטנט מהסמינר\SchoolSys-main\School.Core\bin\Debug\net6.0\School.Core.deps.json
+E:\דוטנט מהסמינר\SchoolSys-main\School.Core\bin\Debug\net6.0\School.Core.dll
+E:\דוטנט מהסמינר\SchoolSys-main\School.Core\bin\Debug\net6.0\School.Core.pdb
+E:\דוטנט מהסמינר\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.csproj.AssemblyReference.cache
+E:\דוטנט מהסמינר\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\דוטנט מהסמינר\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.AssemblyInfoInputs.cache
+E:\דוטנט מהסמינר\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.AssemblyInfo.cs
+E:\דוטנט מהסמינר\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.csproj.CoreCompileInputs.cache
+E:\דוטנט מהסמינר\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.dll
+E:\דוטנט מהסמינר\SchoolSys-main\School.Core\obj\Debug\net6.0\refint\School.Core.dll
+E:\דוטנט מהסמינר\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.pdb
+E:\דוטנט מהסמינר\SchoolSys-main\School.Core\obj\Debug\net6.0\ref\School.Core.dll
+C:\Users\User\Documents\c#\SchoolSys-main\School.Core\bin\Debug\net6.0\School.Core.deps.json
+C:\Users\User\Documents\c#\SchoolSys-main\School.Core\bin\Debug\net6.0\School.Core.dll
+C:\Users\User\Documents\c#\SchoolSys-main\School.Core\bin\Debug\net6.0\School.Core.pdb
+C:\Users\User\Documents\c#\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\c#\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\c#\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\c#\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.AssemblyInfo.cs
+C:\Users\User\Documents\c#\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\c#\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.dll
+C:\Users\User\Documents\c#\SchoolSys-main\School.Core\obj\Debug\net6.0\refint\School.Core.dll
+C:\Users\User\Documents\c#\SchoolSys-main\School.Core\obj\Debug\net6.0\School.Core.pdb
+C:\Users\User\Documents\c#\SchoolSys-main\School.Core\obj\Debug\net6.0\ref\School.Core.dll
